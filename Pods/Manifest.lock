@@ -1,0 +1,33 @@
+PODS:
+  - Alamofire (4.8.2)
+  - AlamofireObjectMapper (5.2.1):
+    - Alamofire (~> 4.7)
+    - ObjectMapper (~> 3.4)
+  - Kingfisher (4.10.1)
+  - ObjectMapper (3.5.3)
+  - PaginatedTableView (1.0.1)
+
+DEPENDENCIES:
+  - Alamofire (~> 4.8.2)
+  - AlamofireObjectMapper (~> 5.2.0)
+  - Kingfisher (~> 4.0)
+  - PaginatedTableView
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - AlamofireObjectMapper
+    - Kingfisher
+    - ObjectMapper
+    - PaginatedTableView
+
+SPEC CHECKSUMS:
+  Alamofire: ae5c501addb7afdbb13687d7f2f722c78734c2d3
+  AlamofireObjectMapper: 1989f690e982b71921b9253f53a4f33a9bc00d88
+  Kingfisher: c148cd7b47ebde9989f6bc7c27dcaa79d81279a0
+  ObjectMapper: 97111c97e054a6ee25917662106689f0b4127b37
+  PaginatedTableView: 294d9831d5ddf5c0dcfbb4a281d4fcfb8d12f55a
+
+PODFILE CHECKSUM: 14f8646e844c2d9d9bb186445c01be5a9c4e8d58
+
+COCOAPODS: 1.8.4
